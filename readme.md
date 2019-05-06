@@ -15,5 +15,9 @@ Full documentation including release notes can be found online at [http://mpxj.o
 
 ... and, go. Be patient. MPXK is only an idea for right now. I'll come back here for updates when it works.
 
+## Update
+
+Converted the Java source to Kotlin via IDEA Ultimate conversion. Attempted a build. Over 24,000 errors. I'm stopping here. I'm committing the change. But this experiment looks dismal at this point.
+
 -- @daball
 www.daball.me
